@@ -1,5 +1,5 @@
 # site_gamesshop
-Projeto em que pude:
+O que foi o estudo desse Projeto:
   <ul>
     <li><span style="background-color: transparent;">compreendeu os detalhes do projeto e seus elementos;</span></li>
     <li><span style="background-color: transparent;">aplicou conceitos de design responsivo ao projeto, incluindo a utilização de Flexbox para criar um layout flexível e adaptável;</span></li>
